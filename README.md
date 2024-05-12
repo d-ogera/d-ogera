@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ogeradan
-- 👀 Self taught web and app developer
-- 🌱 Currently mastering the art of versatile mobile and web applications development
+- 👀 Web and app developer currently mastering data analysis and data science
 - 💞️ I’m looking to collaborate on mobile app and web development using the current coding technology
 
 <!---
