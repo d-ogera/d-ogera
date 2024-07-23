@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ogeradan
-- 👀 Web and app developer currently mastering data analysis and data science
+- 👋 Hi, I’m Ogera Dan
+- 👀 Web and software developer currently mastering data analysis and data science.
+- Currently persuing a software development course with the plp scholarship team
 - 💞️ I’m looking to collaborate on mobile app and web development using the current coding technology
 
 <!---
