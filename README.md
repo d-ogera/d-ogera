@@ -1,9 +1,27 @@
-- 👋 Hi, I’m Ogera Dan
-- 👀 Web and software developer currently mastering data analysis and data science.
-- Currently persuing a software development course with the plp scholarship team
-- 💞️ I’m looking to collaborate on mobile app and web development using the current coding technology
+# 👨‍💻 Ogera Dan
+## A FullStack Software and Web Developer
 
-<!---
-ogeradan/ogeradan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm **Ogera Dan**, a passionate **Fullstack Software and Web Developer**. My unique blend of skills as a  **Developer** and a **Medic** and allows me to approach problems with both analytical precision and creative problem-solving.
+
+## 🔧 My Skills
+
+- **Programming Languages:** PHP, JavaScript, Python, SQL
+- **Web Development:** HTML, CSS, JavaScript, PHP, ,Django, Laravel, React
+- **Database Management:** MySQL, PostgreSQL
+- **Data Analysis:** Python (Pandas, NumPy), Excel
+- **Tech:** Git, Docker, Apache, RESTful APIs
+
+## 💼 Experience
+
+- **Software Development:** 
+- **Web Development:**
+- **Data Analysis:**
+
+## 📫 Get in Touch
+
+- **GitHub:** [[https://github.com/d-ogera](https://github.com/d-ogera)]
+- **Email:** [ogeradann@gmail.com](mailto:ogeradann@gmail.com)
+
+Connect with me for collaboration, mentorship, or just a chat about technology and health data!
+
+---
