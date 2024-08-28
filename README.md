@@ -5,16 +5,16 @@ Hi! I'm **Ogera Dan**, a passionate **Fullstack Software and Web Developer**. My
 
 ## 🔧 My Skills
 
-- **Programming Languages:** PHP, JavaScript, Python, SQL
-- **Web Development:** HTML, CSS, JavaScript, PHP, ,Django, Laravel, React
+- **Programming Languages:** PHP, JavaScript, Python, SQL, Dart
+- **Web Development:** JavaScript, PHP, ,Django, Laravel, React
 - **Database Management:** MySQL, PostgreSQL
 - **Data Analysis:** Python (Pandas, NumPy), Excel
 - **Tech:** Git, Docker, Apache, RESTful APIs
 
 ## 💼 Experience
 
-- **Software Development:** 
-- **Web Development:**
+- **Mobile App Development:** 
+- **Web App Development:**
 - **Data Analysis:**
 
 ## 📫 Get in Touch
