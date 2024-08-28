@@ -1,7 +1,7 @@
-# 👨‍💻 Ogera Dan
-## A FullStack Software and Web Developer
+<h2 align="center">👨‍💻 Ogera Dan</h2>
+<h3 align="center">A FullStack Software and Web Developer</h3>
 
-Hi! I'm **Ogera Dan**, a passionate **Fullstack Software and Web Developer**. My unique blend of skills as a  **Developer** and a **Medic** and allows me to approach problems with both analytical precision and creative problem-solving.
+Hi! I'm a passionate **Fullstack Software and Web Developer**. My unique blend of skills as a  **Developer** and a **Medic** and allows me to approach problems with both analytical precision and creative problem-solving.
 
 ## 🔧 My Skills
 
@@ -11,27 +11,24 @@ Hi! I'm **Ogera Dan**, a passionate **Fullstack Software and Web Developer**. My
 - **Data Analysis:** Python (Pandas, NumPy), Excel
 - **Tech:** Git, Docker, Apache, RESTful APIs
 
-## 💼 Experience
+## Languages and Tools:
 
-- **Mobile App Development:** 
-- **Web App Development:**
-- **Data Analysis:**
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
+ ![Ogera Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-ogera&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ogera&layout=compact&theme=radical) 
 
 ## 📫 Get in Touch
 
 - **GitHub:** [[https://github.com/d-ogera](https://github.com/d-ogera)]
 - **Email:** [ogeradann@gmail.com](mailto:ogeradann@gmail.com)
-
-## Languages and Tools:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-Connect with me for collaboration, mentorship, or just a chat about technology and health data!
-
----
