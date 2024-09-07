@@ -26,7 +26,7 @@ Hi! I'm a passionate **Fullstack Software and Web Developer**. My unique blend o
 [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
- ![](https://github-readme-stats.vercel.app/api?username=d-ogera&theme=default&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=d-ogera&theme=default&hide_border=false) 
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=d-ogera&theme=default&hide_border=false) 
 
 ## 📫 Get in Touch
 
