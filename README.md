@@ -8,7 +8,7 @@ Hi! I'm a passionate **Fullstack Software and Web Developer**. My unique blend o
 - **Programming Languages:** PHP, JavaScript, Python, SQL, Dart
 - **Web Development:** JavaScript, PHP, ,Django, Laravel, React
 - **Database Management:** MySQL, PostgreSQL
-- **Data Analysis:** Python (Pandas, NumPy), Excel
+- **Data Analysis:** Python, Excel,PowerBi
 - **Tech:** Git, Docker, Apache, RESTful APIs
 
 ## Languages and Tools:
@@ -23,7 +23,6 @@ Hi! I'm a passionate **Fullstack Software and Web Developer**. My unique blend o
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=d-ogera&theme=default&hide_border=false) 
