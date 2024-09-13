@@ -6,10 +6,10 @@ Hi! I'm a passionate **Fullstack Software and Web Developer**. My unique blend o
 ## 🔧 My Skills
 
 - **Programming Languages:** PHP, JavaScript, Python, SQL, Dart
-- **Web Development:** JavaScript, PHP, ,Django, Laravel, React
+- **Web Development:** JavaScript, PHP, Django, React
 - **Database Management:** MySQL, PostgreSQL
 - **Data Analysis:** Python, Excel,PowerBi
-- **Tech:** Git, Docker, Apache, RESTful APIs
+- **Tech:** Git, Docker, RESTful APIs
 
 ## Languages and Tools:
 
