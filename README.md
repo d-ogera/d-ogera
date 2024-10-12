@@ -1,7 +1,7 @@
 <h2 align="center">👨‍💻 Ogera Dan</h2>
 <h3 align="center">A FullStack Software and Web Developer</h3>
 
-Hi! I'm a passionate **Fullstack Software and Web Developer**. My unique blend of skills as a  **Developer** and a **Medic** and allows me to approach problems with both analytical precision and creative problem-solving.
+Hi! I'm a passionate **Software Developer**. My unique blend of skills as a  **Developer** and a **Medic** and allows me to approach problems with both analytical precision and creative problem-solving.
 
 ## 🔧 My Skills
 
